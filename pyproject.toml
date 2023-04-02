@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "first-py-package"
+name = "first_py_package"
 version = "0.0.1"
 dependencies = [
     'importlib-metadata; python_version<"3.8"'
