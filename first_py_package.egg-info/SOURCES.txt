@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+first_py_package.egg-info/PKG-INFO
+first_py_package.egg-info/SOURCES.txt
+first_py_package.egg-info/dependency_links.txt
+first_py_package.egg-info/requires.txt
+first_py_package.egg-info/top_level.txt
