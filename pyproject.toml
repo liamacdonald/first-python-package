@@ -1,6 +1,6 @@
 
 [project]
-name = "first-python-package"
+name = "first-py-package"
 version = "0.0.1"
 dependencies = [
     'importlib-metadata; python_version<"3.8"'
