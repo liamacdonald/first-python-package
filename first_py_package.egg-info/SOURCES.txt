@@ -10,6 +10,8 @@ dist/first_py_package-0.1.dev8+g3ff4139.d20230403-py3-none-any.whl
 dist/first_py_package-0.1.dev8+g3ff4139.d20230403.tar.gz
 dist/first_py_package-0.1.dev9+g21dc6e3.d20230403-py3-none-any.whl
 dist/first_py_package-0.1.dev9+g21dc6e3.d20230403.tar.gz
+dist/first_py_package-1.0.1.dev0+ga56ad03.d20230403-py3-none-any.whl
+dist/first_py_package-1.0.1.dev0+ga56ad03.d20230403.tar.gz
 first_py_package/__init__.py
 first_py_package/_version.py
 first_py_package/main.py
