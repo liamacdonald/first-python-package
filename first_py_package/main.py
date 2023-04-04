@@ -1,3 +1,3 @@
 
 def print_text():
-    print('This is version 1.0.2')
+    print('This is new version')
